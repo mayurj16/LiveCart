@@ -1,0 +1,5 @@
+D:\Project(.Net)\Trial Samples\LiveCart\LiveCart\bin\LiveCart.dll
+D:\Project(.Net)\Trial Samples\LiveCart\LiveCart\bin\LiveCart.pdb
+D:\Project(.Net)\Trial Samples\LiveCart\LiveCart\obj\Debug\LiveCart.csprojResolveAssemblyReference.cache
+D:\Project(.Net)\Trial Samples\LiveCart\LiveCart\obj\Debug\LiveCart.dll
+D:\Project(.Net)\Trial Samples\LiveCart\LiveCart\obj\Debug\LiveCart.pdb
