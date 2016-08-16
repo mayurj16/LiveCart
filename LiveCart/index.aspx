@@ -95,7 +95,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 										</div>
 										<div class="col-sm-4">
 											<ul class="multi-column-dropdown">
-												<h6>Women's Wear</h6>
+												<h6>Women Wear</h6>
 												<li><a href="products.html">Clothing</a></li>
 												<li><a href="products.html">Wallets,Bags</a></li>
 												<li><a href="products.html">Footwear</a></li>
